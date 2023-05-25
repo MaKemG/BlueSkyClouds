@@ -371,9 +371,9 @@
                     <rect mask="url(#languages-bar)" x="399.46734711232017" y="0" width="27.600200133290354" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="427.0675472456105" y="0" width="18.58328570609279" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="445.6508329517033" y="0" width="10.166771149955602" height="8" fill="#800000"/>
-                    <rect mask="url(#languages-bar)" x="455.81760410165884" y="0" width="2.2839886869883133" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.1015927886472" y="0" width="1.0818893780470957" height="8" fill="#dbb284"/>
-                    <rect mask="url(#languages-bar)" x="459.1834821666943" y="0" width="0.816517833305694" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="455.81760410165884" y="0" width="2.2837287736242176" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.1013328752831" y="0" width="1.0818893780470957" height="8" fill="#dbb284"/>
+                    <rect mask="url(#languages-bar)" x="459.1832222533302" y="0" width="0.8167777466697894" height="8" fill="#292929"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
